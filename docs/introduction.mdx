@@ -1,0 +1,32 @@
+---
+id: introduction
+title: Introduction
+slug: /
+---
+
+![img alt](/img/jerokit_logo.svg)
+
+# Jetpack Compose
+
+<img src="/img/jetpack_compose_logo.png" width="25%"></img>
+
+Jetpack Compose is just awesome. It offers us to develop nice UI with minimal effort. But this is the half of the truth. If you are developing a very small project then everything will go good. Besides the UI we need to handle the following as well:
+- Navigation
+- Permission
+- Status bar color control
+- Soft input mode
+- Modal bottom sheets
+- Back press handle
+- Activity for result, taking image from camera, etc.
+
+Jetpack Compose have all these supported in nice way.
+
+# So what is the problem?
+
+Well, all these things can be handled only from composable UI code. Imagine a situation when you have to fetch something from server and according to the result you may have to navigate to some page. Imagine that you may have to check/request a permission in a specific situation which depends on logic or fetched data etc. If we have the control of those things only in UI and the situations are being created in non-UI code then it is very difficult to handle all the things. Again for big/complex/sophisticated project we have to use ViewModel/MVVM/Architecture. So, we can not mix UI with logic, database, api calling etc. 
+
+So, there should be way to handle navigation, permission, etc. from viewModel.
+
+But, the problem is that, navigation, permission etc. should not be in ViewModel. So, the requirement and best-practices are conflicting.
+
+Well, **JeroKit** solves this problem. It offers you to control navigation, permisson, etc. directly from viewModel without violating any best-practices.
