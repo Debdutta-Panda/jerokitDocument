@@ -70,7 +70,7 @@ const config = {
           },
           {
             type: 'doc',
-            docId: 'doc1',
+            docId: 'power-navigation',
             position: 'left',
             label: 'Documentation',
           },

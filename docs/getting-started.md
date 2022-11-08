@@ -186,7 +186,7 @@ fun JeroApp() {
 # `MainViewModel`
 
 ```kotlin
-class MainViewModel: WirelessViewModelInterface, ViewModel() {
+class MainViewModel: WirelessViewModel, ViewModel() {
     override val softInputMode = mutableStateOf(SoftInputMode.adjustNothing)
     override val resolver: Resolver = Resolver()
     override val notifier: NotificationService = NotificationService{id,arg->
@@ -201,7 +201,7 @@ class MainViewModel: WirelessViewModelInterface, ViewModel() {
 # `PageAViewModel`
 
 ```kotlin
-class PageAViewModel: WirelessViewModelInterface, ViewModel() {
+class PageAViewModel: WirelessViewModel, ViewModel() {
     override val softInputMode = mutableStateOf(SoftInputMode.adjustNothing)
     override val resolver: Resolver = Resolver()
     override val notifier: NotificationService = NotificationService{id,arg->

@@ -28,7 +28,8 @@ const sidebars = {
       collapsible: true,
       collapsed: false,
       items: [
-        'doc1',
+        'power-navigation',
+        'sheeting'
       ],
     },
   ],
