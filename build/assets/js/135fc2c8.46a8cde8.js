@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjerokit=self.webpackChunkjerokit||[]).push([[176],{7716:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/jerokitDoc/blog/tags/hello","allTagsPath":"/jerokitDoc/blog/tags","count":2}')}}]);

@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'JeroKit',
   tagline: 'Smooth Compose Coding',
-  url: 'https://debdutta-panda.github.io/',
-  baseUrl: '/jerokitDoc',
+  url: 'https://jerokit.debduttapanda.com',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

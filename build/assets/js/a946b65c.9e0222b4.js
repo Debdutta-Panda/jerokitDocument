@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjerokit=self.webpackChunkjerokit||[]).push([[313],{281:e=>{e.exports=JSON.parse('{"permalink":"/jerokitDoc/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
