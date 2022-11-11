@@ -29,7 +29,22 @@ const sidebars = {
       collapsed: false,
       items: [
         'power-navigation',
-        'sheeting'
+        'sheeting',
+        'permitter',
+        'resultar',
+        'back-press',
+        'soft-input',
+        'status-bar-color',
+        'wireless-viewmodel'
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Goodies',
+      collapsible: true,
+      collapsed: false,
+      items: [
+        'ripple-color'
       ],
     },
   ],
