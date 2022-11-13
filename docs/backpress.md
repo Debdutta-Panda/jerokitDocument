@@ -2,9 +2,13 @@
 id: back-press
 title: BackPress
 slug: /back-press
+keywords: [back press handling in android jetpack compose]
+description: handle back press from viewmodel
 ---
 
-<img src="/img/back_press.png" width="200px"></img>
+<img src="/img/back_press.png" alt="back press" width="200px"></img>
+
+Handle back press from viewModel.
 
 # Usage
 

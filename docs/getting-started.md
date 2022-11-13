@@ -2,6 +2,7 @@
 id: getting-started
 title: Getting Started
 slug: /getting-started
+keywords: [how to use jerokit, guide to use jerokit, getting started with jerokit]
 ---
 # Getting Started
 ----------------------

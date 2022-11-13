@@ -54,7 +54,13 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
+      metadata: [
+        {
+          name: 'keywords',
+          content: 'android, jetpack compose, ui, viewmodel, permission, status bar color, resulting activity handling, modal bottom sheet handling'
+        }
+      ],
       navbar: {
         title: 'JeroKit',
         logo: {
@@ -110,7 +116,7 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ["kotlin",'groovy']
       },
-    }),
+    },
 };
 
 module.exports = config;

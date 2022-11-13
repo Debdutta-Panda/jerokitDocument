@@ -2,9 +2,11 @@
 id: sheeting
 title: Sheeting
 slug: /sheeting
+keywords: [handle modal bottom sheets from viewmodel in jetpack compose]
+description: handle modal bottom sheets from viewmodel in jetpack compose
 ---
 
-<img src="/img/sheets.png" width="100px"></img>
+<img src="/img/sheets.png" alt="sheets" width="100px"></img>
 
 This is to manage modal bottom sheets. It offers pluggable modular sheet management directly in viewModel.
 

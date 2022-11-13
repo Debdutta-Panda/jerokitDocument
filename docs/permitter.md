@@ -2,9 +2,11 @@
 id: permitter
 title: Permitter
 slug: /permitter
+keywords: [check and request permission from viewmodel in jetapck compose]
+description: check and request permission from viewmodel in jetapck compose
 ---
 
-<img src="/img/permitter.png" width="100px"></img>
+<img src="/img/permitter.png" alt="permitter" width="100px"></img>
 
 This is to manager permission. By this you can check/request multi/single permission directly from viewModel.
 

@@ -2,9 +2,11 @@
 id: wireless-viewmodel
 title: WirelessViewModel
 slug: /wireless-viewmodel
+keywords: [decouple ui and viewmodel in jetpack compose]
+description: decouple ui and viewmodel in jetpack compose
 ---
 
-<img src="/img/wireless_viewmodel.png" width="400px"></img>
+<img src="/img/wireless_viewmodel.png" alt="wireless viewmodel" width="400px"></img>
 
 # What we do normally
 

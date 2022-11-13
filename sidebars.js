@@ -35,16 +35,8 @@ const sidebars = {
         'back-press',
         'soft-input',
         'status-bar-color',
-        'wireless-viewmodel'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Goodies',
-      collapsible: true,
-      collapsed: false,
-      items: [
-        'ripple-color'
+        'wireless-viewmodel',
+        'd2d'
       ],
     },
   ],

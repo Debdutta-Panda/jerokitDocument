@@ -2,9 +2,11 @@
 id: resultar
 title: Resultar
 slug: /resultar
+keywords: [handle activity for result from viewmodel]
+description: handle activity for result from viewmodel
 ---
 
-<img src="/img/resultar.png" width="100px"></img>
+<img src="/img/resultar.png" alt="resultar" width="100px"></img>
 
 This is to handle `activity-for-result` handling.
 

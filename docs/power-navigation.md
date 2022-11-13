@@ -2,9 +2,11 @@
 id: power-navigation
 title: PowerNavigation
 slug: /power-navigation
+keywords: [manage jetpack compose navigation from viewmodel]
+description: manage jetpack compose navigation from viewmodel
 ---
 
-<img src="/img/power_navigation_logo.png" width="100px"></img>
+<img src="/img/power_navigation_logo.png" alt="power navigation" width="100px"></img>
 
 # Introduction
 -----------------

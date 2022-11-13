@@ -2,9 +2,11 @@
 id: soft-input
 title: SoftInput
 slug: /soft-input
+keywords: [manage soft input ui adjustment from viewmodel in jetpack compose]
+description: manage soft input ui adjustment from viewmodel in jetpack compose
 ---
 
-<img src="/img/soft_input_mode.png" width="200px"></img>
+<img src="/img/soft_input_mode.png" alt="soft input mode" width="200px"></img>
 
 # Usage
 
